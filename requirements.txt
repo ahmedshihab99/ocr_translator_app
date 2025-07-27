@@ -1,0 +1,5 @@
+pytesseract
+Pillow
+pynput
+googletrans==3.1.0a0
+pyautogui
